@@ -253,4 +253,4 @@ GUID const eqsplit_dsp::s_guid = { 0x29213fa7, 0x160e, 0x49b9, { 0xaa, 0xf0, 0x9
 
 dsp_factory_t<eqsplit_dsp> g_asdf;
 
-DECLARE_COMPONENT_VERSION("Split equalizer", "v0.0.1", "Zao")
+DECLARE_COMPONENT_VERSION("Split equalizer", "v0.0.2", "Zao")
