@@ -1,0 +1,8 @@
+{
+    "name": "foo-dsp-eqsplit",
+    "version": "0.0.1",
+    "dependencies": [
+        "boost-serialization",
+        "foobar2000-sdk"
+    ]
+}
